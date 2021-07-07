@@ -17,3 +17,5 @@ body {
 .choices:hover {transform: scale(1.4);
 
 }
+.fa-hand-scissors:before {
+    content: "\f257"; }
