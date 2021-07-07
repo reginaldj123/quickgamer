@@ -33,6 +33,10 @@ align-items: flex-end;
     margin-left: .1rem;
  font-size: .5rem;
  color: brown;
+ transition:100ms;
+}
+.resultsscore:hover{transform: scale(1.4);
+
 }
 .resultssection {
     opacity:.5;
