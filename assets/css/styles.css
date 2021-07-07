@@ -34,3 +34,10 @@ align-items: flex-end;
  font-size: .5rem;
  color: brown;
 }
+.resultssection {
+    opacity:.5;
+}
+.results-selection-winner-{
+ opacity: 1;
+ font-size:1.5rem;
+}
