@@ -34,14 +34,15 @@ justify-items: center;
 align-items: flex-end;
 }
 .resultsscore {
+justify-content: center;
  font-size: .5rem;
  color: brown;
 }
 
-.resultssection {
+.results-section {
     opacity:.5;
 }
-.results-selection-winner-{
+.results-selection.winner-{
  opacity: 1;
  font-size:5.5rem;
 }
