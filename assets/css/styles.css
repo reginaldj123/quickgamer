@@ -2,6 +2,10 @@ body {background-color: burlywood;
     
 }
 
+h1 {
+    justify-content: center;
+    text-align:center;
+      color: firebrick;}
 .choicessection {
     display: flex;
     justify-content: center;
