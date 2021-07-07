@@ -18,4 +18,6 @@ body {
 
 }
 .fa-hand-scissors:before {
+    color: black;
+    display: block;
     content: "\f257"; }
