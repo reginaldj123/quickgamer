@@ -2075,9 +2075,9 @@ readers do not read off random characters that represent icons */
 
 .fa-hand-rock:before {
   content: "\f255"; }
-
 .fa-hand-scissors:before {
   content: "\f257"; }
+
 
 .fa-hand-sparkles:before {
   content: "\e05d"; }
