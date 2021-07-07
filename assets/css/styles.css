@@ -13,11 +13,20 @@ body {background-color: burlywood;
     cursor: pointer;
     outline: none;
     font-size: 2rem;
+    transition:100ms;
 }
 .choices:hover {transform: scale(1.4);
 
 }
-.fa-hand-scissors:before {
-    color: black;
-    display: block;
-    content: "\f257"; }
+
+.results {
+    margin-top: 1rem;
+    display: grid;
+justify-content: center;
+grid-template-columns: repeat(2, 1fr);
+justify-items: center;
+align-items: flex-end;
+}
+.resultsscore { 
+    margin-left: 1rem;
+}
