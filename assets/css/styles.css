@@ -29,19 +29,15 @@ grid-template-columns: repeat(2, 1fr);
 justify-items: center;
 align-items: flex-end;
 }
-.resultsscore { 
-    margin-left: .1rem;
+.resultsscore {
  font-size: .5rem;
  color: brown;
- transition:100ms;
 }
-.resultsscore:hover{transform: scale(1.4);
 
-}
 .resultssection {
     opacity:.5;
 }
 .results-selection-winner-{
  opacity: 1;
- font-size:1.5rem;
+ font-size:5.5rem;
 }
