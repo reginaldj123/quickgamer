@@ -1,6 +1,6 @@
 const choicesectionButtons = document.querySelectorAll('[data-selection]');
 choicesectionButtons.forEach(choicesectionButton => {
-    selectionButton.addEventListener('click', e => {
+    selectionButton.addEventListener('click',  e => {
         const choicesName = selectionButton.dataset.selection 
         makeSelection(selectionName)
 
