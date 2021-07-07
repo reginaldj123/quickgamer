@@ -7,13 +7,13 @@ body {
     justify-content: center;
 
 }
-.choices{
+.choices {
     background:none;
     border: none;
     cursor: pointer;
     outline: none;
     font-size: 2rem;
 }
-.choices :hover {transform: scale(1.4);
+.choices:hover {transform: scale(1.4);
 
 }
