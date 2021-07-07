@@ -30,5 +30,7 @@ justify-items: center;
 align-items: flex-end;
 }
 .resultsscore { 
-    margin-left: 1rem;
+    margin-left: .1rem;
+ font-size: .5rem;
+ color: brown;
 }
