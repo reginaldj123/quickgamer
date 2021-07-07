@@ -20,8 +20,9 @@ In this section, you should go over the different parts of your project, and des
 
 - __The Game Area__
 
-  - This section will allow the user to play the maths game. The user will be able to easily see icons for addition,  subtraction, multiplication, and division games.
-  - The user will be able to select the type of maths game they will be playing by clicking on the different icons. 
+  - in this section you have the three icons which are  rock, paper,scissors
+  - you will have the labels for the player and the players icon and you will have the same for the bot which is the computer.
+  - the tally of results wins and loses will b tally in this area 
 
 ![Game](media/love_maths_icons.png)
 
