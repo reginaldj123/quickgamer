@@ -4,17 +4,18 @@ const choices = [
         name:Rock;
         emoji:✊🏼;
         beats:Scissors;
-    }
-    {
-        name:Paper;
+    },
+    {   name:Paper;
         emoji:✋🏻;
         beats:Rock;
-    } {
+    },
+     
+    {
         name:Scissors;
         emoji:✌🏼;
         beats:Paper;
     }
-]
+];
 choicesectionButtons.forEach(choicesectionButton => {
     selectionButton.addEventListener('click',  e => {
         const choicesName = selectionButton.dataset.selection 
