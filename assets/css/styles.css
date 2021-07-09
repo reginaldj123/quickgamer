@@ -26,8 +26,7 @@ h1 {
 .results {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 5rem;
-    margin-left:.5rem
-    ;
+    margin-left:.5rem;
     margin-top: 1rem;
     display: grid;
 justify-content: center;
@@ -36,13 +35,16 @@ justify-items: center;
 align-items: flex-end;
 }
 .resultsscore {
+    margin-left: .1rem;
 justify-content: center;
  font-size: .5rem;
  color: brown;
 }
 
-.results-section {
+.resultssection {
     opacity:.5;
+
+
 }
 .results-selection.winner-{
  opacity: 1;
