@@ -1,5 +1,5 @@
 const choicesectionButtons = document.querySelectorAll('[data-selection]')
-const finalColumn = document.querySelectore('[data-final-column]')
+const finalColumn = document.querySelector('[data-final-column]')
 const botscorespan = document.querySelector('[data-bot-score]')
 const player1sScoreSpan =  document.querySelector('[data-player1-score]')
 const choices = [
@@ -21,9 +21,9 @@ const choices = [
 ];
 choicessectionButtons.forEach(choicesectionButton => {
     choicessectionButton.addEventListener('click',  e => {
-        const choicesName = choicesectionButton.dataset.selection;
-        const choices =  Selection.find(choices =>
-        makeSelection(choices)
+        const choicesName = choicesectionButton.dataset.selection
+        const choices =  Selection.find(choices => choices.name === choicesName)
+             makeSelection(choices)
 
     })
 }
@@ -59,9 +59,5 @@ function isWinner(selection,opponentchoices) {
 function randomSelection() {
     const randomIndex = Math.floor(Math.random() *choices.length)
     return choices[randomIndex]
-}
-
-            
-
-    };
+};
 console.log("conected");
