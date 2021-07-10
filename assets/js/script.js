@@ -60,3 +60,12 @@ function randomSelection() {
   const randomIndex = Math.floor(Math.random() * SELECTIONS.length)
   return SELECTIONS[randomIndex]
 }
+// on page load collects user name and show rules
+
+document.addEventListener("DOMContentLoaded", function(){
+  const username = prompt ('Your name', '');
+  // if user entered a name, update the default Player 1 in the HTML
+  if (username.length > 0){
+    document.querySelector('[data-user]').innerHTML=username;
+  }
+}
