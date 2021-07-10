@@ -42,11 +42,11 @@ justify-content: center;
 }
 
 .resultssection {
-    opacity:.5;
+    opacity: .5;
 
 
 }
-.results-selection.winner-{
+.results-section.winner-{
  opacity: 1;
- font-size:5.5rem;
+ font-size: 1.5rem;
 }

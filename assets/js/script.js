@@ -2,7 +2,7 @@ const choicesectionButtons = document.querySelectorAll('[data-selection]')
 const finalColumn = document.querySelector('[data-final-column]')
 const botscorespan = document.querySelector('[data-bot-score]')
 const player1sScoreSpan =  document.querySelector('[data-player1-score]')
-const choices = [
+const CHOICES = [
     {
         name:'Rock',
         emoji:'✊🏼',
@@ -21,32 +21,32 @@ const choices = [
 ];
 choicessectionButtons.forEach(choicesectionButton => {
     choicessectionButton.addEventListener('click',  e => {
-        const choicesName = choicesectionButton.dataset.selection
-        const choices =  Selection.find(choices => choices.name === choicesName)
-             makeSelection(choices)
+        const choicesName = choicesectionButton.dataset.choices
+        const CHOICES =  CHOICES.find(choices => choices.name === choicesName)
+             makechoices(choices)
 
     })
 }
     );
     function makechoices(choices){
-        const botchoices  = randomSelection()
-            const player1Winner = isWinner(Player1choices, player1Winner)
-            const botWinner = isWinner( botchoices,botWinner)
+        const botchoices  = randomchoices()
+            const player1Winner = isWinner(choices, botchoices)
+            const botWinner = isWinner(botchoices,choices)
             
-            addchoicesresults(botchoices,botWinner)
-            addchoicesresults()
-
-            if (player1Winner)  incrementresults(player1score)
-            if (botWinner) incrementresults(botresults)
+            addchoicesresults(botchoices, botWinner)
+            addchoicesresults(choices, player1Winner)
+    
+            if(player1Winner) incrementresults(player1scorespan)
+            if(botWinner) incrementresults(botresultsscorespan)
     }
-     function incrementresults(resultsspan) {
-resultsspan.innertext = parseInt(resultsspan.innertext) + 1
+     function incrementresults(resultsscorespan) {
+resultsspan.innertext = parseInt(resultsscorespan.innertext) + 1
 
      }  
 function addchoicesresults(choices, Winner){
-    const div = document .createElement('div')
+    const div = document.createElement('div')
     div.innerText = choice.emoji
-    div.classList.add('result-choices')
+    div.classList.add('results')
     if (Winner)  div.classList.add('Winner')
     finalColumn.after(div)
 }
@@ -56,8 +56,8 @@ function isWinner(selection,opponentchoices) {
 
 }
 
-function randomSelection() {
-    const randomIndex = Math.floor(Math.random() *choices.length)
-    return choices[randomIndex]
+function randomchoices() {
+    const randomchoices = Math.floor(Math.random() *choices.length)
+    return choices[randomchoices]
 };
 console.log("conected");
