@@ -68,4 +68,4 @@ document.addEventListener("DOMContentLoaded", function(){
   if (username.length > 0){
     document.querySelector('[data-user]').innerHTML=username;
   }
-}
+})
