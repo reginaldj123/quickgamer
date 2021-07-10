@@ -1,52 +1,45 @@
-body {background-color: rgb(138, 43, 6);
-    
-}
-
-h1 {
-    justify-content: center;
-    text-align:center;
-      color: firebrick;}
-.choicessection {
+body {
+    background-color: #CCC;
+  }
+  
+  .selections {
     display: flex;
     justify-content: center;
-
-}
-.choices {
-    background:none;
+  }
+  
+  .selection {
+    background: none;
     border: none;
-    cursor: pointer;
     outline: none;
+    cursor: pointer;
     font-size: 2rem;
-    transition:100ms;
-}
-.choices:hover {transform: scale(1.4);
-
-}
-
-.results {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 5rem;
-    margin-left:.5rem;
+    transition: 100ms;
+  }
+  
+  .selection:hover {
+    transform: scale(1.2);
+  }
+  
+  .results {
     margin-top: 1rem;
     display: grid;
-justify-content: center;
-grid-template-columns: repeat(2, 1fr);
-justify-items: center;
-align-items: flex-end;
-}
-.resultsscore {
+    justify-content: center;
+    grid-template-columns: repeat(2, 1fr);
+    justify-items: center;
+    align-items: center;
+  }
+  
+  .result-score {
     margin-left: .1rem;
-justify-content: center;
- font-size: .5rem;
- color: brown;
-}
-
-.resultssection {
+    font-size: .5rem;
+    color: #333;
+  }
+  
+  .result-selection {
     opacity: .5;
-
-
-}
-.results-section.winner-{
- opacity: 1;
- font-size: 1.5rem;
-}
+  }
+  
+  .result-selection.winner {
+    opacity: 1;
+    font-size: 1.5rem;
+  }
