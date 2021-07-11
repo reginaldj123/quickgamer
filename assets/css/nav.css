@@ -1,0 +1,12 @@
+body {
+    background-color:red ;
+}
+H1 { color: rgb(219, 223, 7);
+    font-size: large;
+    text-decoration:underline ;
+}
+
+nav {
+    text-align: center;
+    margin: left 9px; ;
+}
