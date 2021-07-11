@@ -3,10 +3,16 @@ body {
 }
 H1 { color: rgb(219, 223, 7);
     font-size: large;
-    text-decoration:underline ;
-}
-
-nav {
-    text-align: center;
-    margin: left 9px; ;
-}
+    text-decoration:underline;
+    
+}ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li a {
+    display: block;
+    width: 60px;
+    background-color: #dddddd;
+  }
