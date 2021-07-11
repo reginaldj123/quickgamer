@@ -6,8 +6,7 @@ h1 {justify-content: center;
   color: rgb(235, 212, 13);
   text-decoration: underline;
   text-decoration-color: darkgreen;
-  font-family: 'Press Start 2P', cursive;
-  
+  font-family: 'Press Start 2P', cursive; 
 
 }
   
@@ -88,7 +87,7 @@ div#menu li.active /* active menu button style */
   background-color: #dd417f;
 }
 
-/* The Modal (background) */
+
 .modal {
   display: none; /* Hidden by default */
   position: fixed; /* Stay in place */
@@ -102,8 +101,6 @@ div#menu li.active /* active menu button style */
   background-color: rgb(0,0,0); /* Fallback color */
   background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
 }
-
-/* Modal Content https://www.w3schools.com/howto/howto_css_modals.asp */
 .modal-content {
   background-color: #fefefe;
   margin: auto;
