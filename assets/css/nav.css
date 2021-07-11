@@ -1,12 +1,15 @@
 body {
     background-color:red ;
 }
-H1 { color: rgb(219, 223, 7);
-    font-size: large;
-    text-decoration:underline;
-}
     
+h1 {justify-content: center;
+  color: rgb(235, 212, 13);
+  text-decoration: underline;
+  text-decoration-color: darkgreen;
+  font-family: 'Press Start 2P', cursive;
+  
 
+}
   
   
   li a {
