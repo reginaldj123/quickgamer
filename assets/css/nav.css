@@ -111,3 +111,22 @@ div#menu li.active /* active menu button style */
   background-color: darkseagreen;
 }
 h2 {justify-content: center;}
+
+body, html {
+  height: 100%;
+}
+
+Example
+body, html {
+  height: 100%;
+}
+
+.bg {
+  background-image: url(arcade-games-154575_1280.png);
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+  
+  
