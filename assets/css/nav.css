@@ -2,7 +2,7 @@ body {
     background-color:red ;
 }
     
-h1 {justify-content: center;
+h1  h2 {justify-content: center;
   color: rgb(235, 212, 13);
   text-decoration: underline;
   text-decoration-color: darkgreen;
@@ -107,3 +107,7 @@ div#menu li.active /* active menu button style */
 .background {
   background-color: #4180dd;
 }
+.homeback {
+  background-color: darkseagreen;
+}
+h2 {justify-content: center;}
