@@ -1,8 +1,5 @@
-#Rock-Paper-Scissors
-quickgamer is a page intended to have a few mini games were you will be able to navigate through the games list where you will have games such as Rock Paper Scissors, snap, and chess for now the page has
-In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience. 
-
-For example, Love Maths is a site that hopes to demonstrate how pure JavaScript works in a real-world context. The site will be targeted toward people who not only love to implement more advanced JavaScript concepts but also maths. Love Maths is a fully responsive JavaScript maths game that will allow users to add, subtract, multiply and divide numbers. 
+#QuickGamer
+quickgamer is a page intended to have a few mini games were you will be able to navigate through the games list there you will have games such as Rock,Paper,Scissors,snap and chess. each page has a navigation bar which will alow you to go to the game of choice play area. the page is useful for people wanting to enjoy a quick gameplay in there spare time. it alows you to play and also has toutorials for beginners.is a site that hopes to demonstrate how pure JavaScript works in a real-world context.JavaScript maths game that will allow users to add, subtract, multiply and divide numbers.
 
 ![Responsice Mockup](media/love_maths_mockup.png)
 
