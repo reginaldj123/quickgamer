@@ -14,9 +14,9 @@ the main fetures introduced in Quick gamer are as follows
 
 - __ Logo and Heading__
 
-  - Featured at the top of the page, the Quick Gamer logo and heading is easy to see for the user. Upon viewing the page, the user will be able to see the name of the site and game .
+  - Featured at the top of the page, the Quick Gamer logo and heading is easy to see for the user. Upon viewing the page, the user will be able to see the name of the site and game  list.
 
-![Logo](media/love_maths_logo.png)
+![Logo](ass
 
 - __The Game Area__
 
