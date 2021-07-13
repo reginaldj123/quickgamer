@@ -1,17 +1,20 @@
 #QuickGamer
-quickgamer is a page intended to have a few mini games were you will be able to navigate through the games list there you will have games such as Rock,Paper,Scissors,snap and chess. each page has a navigation bar which will alow you to go to the game of choice play area. the page is useful for people wanting to enjoy a quick gameplay in there spare time. it alows you to play and also has toutorials for beginners.is a site that hopes to demonstrate how pure JavaScript works in a real-world context.JavaScript maths game that will allow users to add, subtract, multiply and divide numbers.
-
-![Responsice Mockup](media/love_maths_mockup.png)
+quickgamer is a page intended to have a few mini games were you will be able to navigate through the games list there you will have games such as Rock,Paper,Scissors,snap and chess. each page has a navigation bar which will alow you to go to the game of choice play area. the page is useful for people wanting to enjoy a quick gameplay in their spare time. it alows you to play and also gives toutorials for beginners to learn how to play. this is a site that hopes to demonstrate how JavaScript works behind content to allow enjoyment and interaction for the user.
 
 ## Features 
+the main fetures introduced in Quick gamer are as follows 
+1. the nav list- this fetuere alows you to navigate through the site giving you a choice of game
+2. Rock Paper Scissors -  the main feture of the site as it has already been coded with java script to produce results.
+3. chess - is another future feture to be coded and added to the site.
+4. snap - this is another one of are game playing options  but also a future feture right now with just the tutorial video  as the main part of that page.
+5. you also have the logo  written in yellow at the top of the page Quick gamer.
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 ### Existing Features
 
-- __The Love Maths Logo and Heading__
+- __ Logo and Heading__
 
-  - Featured at the top of the page, the Love Maths logo and heading is easy to see for the user. Upon viewing the page, the user will be able to see the name of the game.
+  - Featured at the top of the page, the Quick Gamer logo and heading is easy to see for the user. Upon viewing the page, the user will be able to see the name of the site and game .
 
 ![Logo](media/love_maths_logo.png)
 
