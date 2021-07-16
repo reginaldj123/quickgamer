@@ -20,7 +20,7 @@ h1  h2 {justify-content: center;
 
   #menu /* layout main menu */
 {
-
+  position:fixed; left:-45px; top:20px;
   float:left;
   margin-top:1em;
   padding-bottom:1em;
