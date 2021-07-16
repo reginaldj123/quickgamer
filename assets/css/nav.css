@@ -39,15 +39,16 @@ div#menu li /* horizontal menu layout */
 {
   display: inline;
   padding: 0.7em 1em 0.7em 1em;
-  border: 3px solid #FFFFFF;
+  border: 3px solid #301cd5;
   border-radius: 10px;
-  margin-right:30px;
-  background-color: #4180dd;
+  margin-right: 30px;
+  background-color: rgb(238, 255, 0);
+}
 }
 
 div#menu li a:hover /* link style on-mouse-over */
 {
-  color:#FFFFFF;
+  color:#301cd5;
   text-transform: uppercase;
   text-decoration: none;
 
@@ -56,14 +57,15 @@ div#menu li a:hover /* link style on-mouse-over */
 div#menu li:hover  /* button style on-mouse-over */
 {
   padding: 0.7em 1em 0.7em 1em;
-  border: 3px solid #FFFFFF;
+  border: rgb(238, 255, 0);
   border-radius: 10px;
-  background-color: #dd417f;
+  background-color: #301cd5;
+}
 }
 
 div#menu li a /* link style */
 {
-  color:#FFFFFF;
+  color:#301cd5;
   font-size: 1em;
   text-transform: uppercase;
   text-decoration: none;
