@@ -44,7 +44,7 @@ div#menu li /* horizontal menu layout */
   margin-right: 30px;
   background-color: rgb(238, 255, 0);
 }
-}
+
 
 div#menu li a:hover /* link style on-mouse-over */
 {
@@ -61,7 +61,7 @@ div#menu li:hover  /* button style on-mouse-over */
   border-radius: 10px;
   background-color: #301cd5;
 }
-}
+
 
 div#menu li a /* link style */
 {
