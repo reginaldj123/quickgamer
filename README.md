@@ -4,10 +4,12 @@ quickgamer is a page intended to have a few mini games were you will be able to 
 ## Features 
 the main fetures introduced in Quick gamer are as follows 
 1. the nav list- this fetuere alows you to navigate through the site giving you a choice of game
-2. Rock Paper Scissors -  the main feture of the site as it has already been coded with java script to produce results.
+2. Rock Paper Scissors -  the main feture of the site as it has already been coded with java script to produce  a working game.
 3. chess - is another future feture to be coded and added to the site.
 4. snap - this is another one of are game playing options  but also a future feture right now with just the tutorial video  as the main part of that page.
-5. you also have the logo  written in yellow at the top of the page Quick gamer.
+5. the logo  written in yellow at the top of the page Quick gamer.
+6. the About us page which gives information about quick gammer its founders and what it hopes to do in the future 
+7. the footer which has the ways of getting in contact with us through social media sites but also has email and telephone number
 
 
 ### Existing Features
@@ -16,11 +18,11 @@ the main fetures introduced in Quick gamer are as follows
 
   - Featured at the top of the page, the Quick Gamer logo and heading is easy to see for the user. Upon viewing the page, the user will be able to see the name of the site and game  list.
 
-![Logo](ass
+![Logo](assets/images/readme/website.logo.and.name.png)
 
 - __The Game Area__
-
-  - in this section you have the three icons which are  rock, paper,scissors
+- at the moment we currently have one working gsame area for the rock paper scissors game 
+  - in this game you have the three icons which are  rock, paper,scissors
   - you will have the labels for the player and the players icon and you will have the same for the bot which is the computer.
   - the tally of results wins and loses will b tally in this area 
 
