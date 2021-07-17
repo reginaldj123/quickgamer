@@ -136,8 +136,8 @@ h2 {justify-content: center;}
       left: 0;
       bottom: 0;
       width: 100%;
-      background-color:rgb(238, 255, 0);
-      color:black;
+      background-color:rgb(15, 15, 14);
+      color:rgb(238, 255, 0);
       text-align: center;
     }
      
@@ -153,3 +153,4 @@ h2 {justify-content: center;}
       border: 3px solid #301cd5;
       border-radius: 10px;
     }
+    

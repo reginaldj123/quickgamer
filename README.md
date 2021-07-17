@@ -24,14 +24,19 @@ the main fetures introduced in Quick gamer are as follows
 - at the moment we currently have one working gsame area for the rock paper scissors game 
   - in this game you have the three icons which are  rock, paper,scissors
   - you will have the labels for the player and the players icon and you will have the same for the bot which is the computer.
-  - the tally of results wins and loses will b tally in this area 
+  - the tally of results wins and loses will be  in this area 
+  - you will also be able to select the rules button to see how the game is played 
 
-![Game](media/love_maths_icons.png)
+![Game](assets/images/gamearea.png)
 
-- __The Question section__
+- __rock-paper-scissors__
+- the page upon click presents you with  a modul log that asks "player1 what is your name ?" depending on user input the result will now sit beside the player1 label in the game area, if the user does not input a name and hits "cancel" or "ok" the player1 label alone will represent the username.
+-once on the page you have:
+1. nav list in the top left corner of the page.
+2. the logo "QuickGamer" at the top center of the page.
+3. the game area seated in the center contained in a black div.
+4. the footer at the bottom of the page containig social media contact information 
 
-  - The question section is where the user will be able to see the elementary arithmetic question to answer as part of the game. The user will be able answer the questions in the answer box provide
-  - The user will be able to submit their answer and a pop-up will make it known to the user if they answered correctly. 
 
 ![Question](media/love_maths_question.png)
 
