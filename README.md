@@ -32,10 +32,10 @@ the main fetures introduced in Quick gamer are as follows
 - __rock-paper-scissors__
 - the page upon click presents you with  a modul log that asks "player1 what is your name ?" depending on user input the result will now sit beside the player1 label in the game area, if the user does not input a name and hits "cancel" or "ok" the player1 label alone will represent the username.
 -once on the page you have:
-1. nav list in the top left corner of the page.
-2. the logo "QuickGamer" at the top center of the page.
-3. the game area seated in the center contained in a black div.
-4. the footer at the bottom of the page containig social media contact information 
+- nav list in the top left corner of the page.
+- the logo "QuickGamer" at the top center of the page.
+- the game area seated in the center contained in a black div.
+- the footer at the bottom of the page containig social media contact information 
 
 
 ![RockpaperScissors](assets/images/rock-paper-scissors-game.png)
@@ -50,9 +50,12 @@ the main fetures introduced in Quick gamer are as follows
 
 ![snap.html](assets/images/rock-paper-scissors-game.png)
 
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+- __chess__ 
+ - This page is under construction  at the moment until a game for chess has been coded so i have used a video tutorial on how to play chess in the center of the page .
+  - the page contains the nav list on the left .
+  - the page logo  is seated at the top center of the page
+  - the name of the page letting you know where you are is just under the logo 
+  - the footer at the bottom of the page containig social media contact information    
 
 ### Features Left to Implement
 
