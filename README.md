@@ -38,7 +38,7 @@ the main fetures introduced in Quick gamer are as follows
 4. the footer at the bottom of the page containig social media contact information 
 
 
-![Question](media/love_maths_question.png)
+![Rock.paper.Scissors]()
 
 - __The Score Area__
 
