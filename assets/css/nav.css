@@ -1,5 +1,5 @@
 body {
-    background-color:red ;
+    background-color:#ff0082 ;
   color:rgb(238, 255, 0);
   
 }
@@ -117,7 +117,7 @@ div#menu li.active /* active menu button style */
 h2 {justify-content: center;}
 
 .bg {    
-    background-image: url(../images/readme/arcade-games-154575_1280.png);
+  
     background-size: cover;
     position: absolute;
     top: 0px;
