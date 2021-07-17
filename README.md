@@ -27,7 +27,7 @@ the main fetures introduced in Quick gamer are as follows
   - the tally of results wins and loses will be  in this area 
   - you will also be able to select the rules button to see how the game is played 
 
-![Game](assets/images/gamearea.png)
+![Game](assets/images/game.png)
 
 - __rock-paper-scissors__
 - the page upon click presents you with  a modul log that asks "player1 what is your name ?" depending on user input the result will now sit beside the player1 label in the game area, if the user does not input a name and hits "cancel" or "ok" the player1 label alone will represent the username.
@@ -38,13 +38,17 @@ the main fetures introduced in Quick gamer are as follows
 4. the footer at the bottom of the page containig social media contact information 
 
 
-![Rock.paper.Scissors]()
+![RockpaperScissors](assets/images/rock-paper-scissors-game.png)
 
-- __The Score Area__
+- __snap.html__
 
-  - This section will allow the user to see exactly how many correct and incorrect answers they have provided. 
+  - This page is under construction  at the moment o game for snap has been coded so i have used a video tutorial on how to play snap in the center of the page .
+  - the page contains the nav list on the left .
+  - the page logo  is seated at the top center of the page
+  - the name of the page letting you know where you are is just under the logo 
+  - the footer at the bottom of the page containig social media contact information    
 
-![score](media/love_maths_answer.png)
+![snap.html](assets/images/rock-paper-scissors-game.png)
 
 For some/all of your features, you may choose to reference the specific project files that implement them.
 
