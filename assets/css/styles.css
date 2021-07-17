@@ -4,6 +4,9 @@
   .selections {
     display: flex;
     justify-content: center;
+    position: absolute;
+    left: 1200px;
+    top: 400px
     
   }
   
@@ -15,9 +18,7 @@
     cursor: pointer;
     font-size: 1.5rem;
     transition: 100ms;
-    position: absolute;
-    left: 1200px;
-    top: 400px;
+    
   }
   
   .selection:hover {
