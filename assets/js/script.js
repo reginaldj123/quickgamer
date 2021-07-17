@@ -88,7 +88,7 @@ window.onclick = function(event) {
 // on page load collects user name and show rules
 
 document.addEventListener("DOMContentLoaded", function(){
-  const username = prompt ('Your name', '');
+  const username = prompt ('Playerf1 what is your name ?', "" );
   // if user entered a name, update the default Player 1 in the HTML
   if (username.length > 0){
     document.querySelector('[data-user]').innerHTML=username;

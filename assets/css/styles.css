@@ -73,7 +73,7 @@
 
 /* Modal Content https://www.w3schools.com/howto/howto_css_modals.asp */
 .modal-content {
-  background-color: #fefefe;
+  background-color:rgb(15, 15, 14);
   margin: auto;
   padding: 20px;
   border: 1px solid #888;
