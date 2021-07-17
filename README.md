@@ -57,6 +57,7 @@ the main fetures introduced in Quick gamer are as follows
   - the name of the page letting you know where you are is just under the logo 
   - the footer at the bottom of the page containig social media contact information    
 
+![chess.html](assets/images/chess.png)
 ### Features Left to Implement
 
 - Another feature idea
