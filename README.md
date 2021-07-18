@@ -27,7 +27,7 @@ the main fetures introduced in Quick gamer are as follows
   - the tally of results wins and loses will be  in this area 
   - you will also be able to select the rules button to see how the game is played 
 
-![Game](assets/images/game.png)
+![Game](assets/images/game1.png)
 
 ### rock-paper-scissors
 - the page upon click presents you with  a modul log that asks "player1 what is your name ?" depending on user input the result will now sit beside the player1 label in the game area, if the user does not input a name and hits "cancel" or "ok" the player1 label alone will represent the username.
@@ -38,7 +38,7 @@ the main fetures introduced in Quick gamer are as follows
 - the footer at the bottom of the page containig social media contact information 
 
 
-![RockpaperScissors](assets/images/rock-paper-scissors-game.png)
+![RockpaperScissors](assets/images/rps.png)
 
 ### snap
 
@@ -48,7 +48,7 @@ the main fetures introduced in Quick gamer are as follows
   - the name of the page letting you know where you are is just under the logo 
   - the footer at the bottom of the page containig social media contact information    
 
-![snap.html](assets/images/snap.html.png)
+![snap.html](assets/images/snap.png)
 
 ### chess
  - This page is under construction  at the moment until a game for chess has been coded so i have used a video tutorial on how to play chess in the center of the page .
