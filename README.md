@@ -29,7 +29,7 @@ the main fetures introduced in Quick gamer are as follows
 
 ![Game](assets/images/game.png)
 
-- __rock-paper-scissors__
+### rock-paper-scissors
 - the page upon click presents you with  a modul log that asks "player1 what is your name ?" depending on user input the result will now sit beside the player1 label in the game area, if the user does not input a name and hits "cancel" or "ok" the player1 label alone will represent the username.
 -once on the page you have:
 - nav list in the top left corner of the page.
@@ -40,7 +40,7 @@ the main fetures introduced in Quick gamer are as follows
 
 ![RockpaperScissors](assets/images/rock-paper-scissors-game.png)
 
-- __snap.html__
+### snap
 
   - This page is under construction  at the moment o game for snap has been coded so i have used a video tutorial on how to play snap in the center of the page .
   - the page contains the nav list on the left .
@@ -48,9 +48,9 @@ the main fetures introduced in Quick gamer are as follows
   - the name of the page letting you know where you are is just under the logo 
   - the footer at the bottom of the page containig social media contact information    
 
-![snap.html](assets/images/rock-paper-scissors-game.png)
+![snap.html](assets/images/snap.html.png)
 
-- __chess__ 
+### chess
  - This page is under construction  at the moment until a game for chess has been coded so i have used a video tutorial on how to play chess in the center of the page .
   - the page contains the nav list on the left .
   - the page logo  is seated at the top center of the page
@@ -58,7 +58,13 @@ the main fetures introduced in Quick gamer are as follows
   - the footer at the bottom of the page containig social media contact information    
 
 ![chess.html](assets/images/chess.png)
-### Features Left to Implement
+
+### about us
+
+
+
+### fetures to implement
+
 
 - Another feature idea
 
