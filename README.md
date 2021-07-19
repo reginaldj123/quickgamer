@@ -1,4 +1,4 @@
-#QuickGamer
+# QuickGamer
 quickgamer is a page intended to have a few mini games were you will be able to navigate through the games list there you will have games such as Rock,Paper,Scissors,snap and chess. each page has a navigation bar which will alow you to go to the game of choice play area. the page is useful for people wanting to enjoy a quick gameplay in their spare time. it alows you to play and also gives toutorials for beginners to learn how to play. this is a site that hopes to demonstrate how JavaScript works behind content to allow enjoyment and interaction for the user.
 
 ## Features 
