@@ -162,3 +162,6 @@ h2 {justify-content: center;}
       background-size: contain;
       border: 1px solid red;
     }
+    .my_video {
+      margin: 0 auto;
+      border: 20px groove rgb(85, 84, 84);}
