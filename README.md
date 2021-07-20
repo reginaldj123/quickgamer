@@ -60,10 +60,19 @@ the main fetures introduced in Quick gamer are as follows
 ![chess.html](assets/images/chess2.png)
 
 ### about us
+- This page is under construction  at the moment.
+  - the page contains the nav list on the left .
+  - the page logo  is seated at the top center of the page
+  - the name of the page letting you know where you are is just under the logo 
+  - the footer at the bottom of the page containig social media contact information    
 
 
 
-### fetures to implement
+###  future fetures to be implemented
+ ##### fetures for snap 
+ - in future i would like to have an up and runnning  simple card game where the user could play against the computer,the game area will be  positioned in the center of the page currently where the video is.we
+ will then have a page "learn how to play" where you will have the videos of exactly how to play each game on the Quickgamer website.there will then be a rules button besides the  game area like in "rock paper"that once clicked 
+
 
 
 - Another feature idea
