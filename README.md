@@ -16,11 +16,11 @@ the main fetures introduced in Quick gamer are as follows
 
 ### Existing Features
 
-- __ Logo and Heading__
+- __Logo and Heading__
 
   - Featured at the top of the page, the Quick Gamer logo and heading is easy to see for the user. Upon viewing the page, the user will be able to see the name of the site and game  list.
 
-![Logo](assets/images/readme/website.logo.and.name.png)
+![Logo](assets/images/logo.png)
 
 - __The Game Area__
 - at the moment we currently have one working gsame area for the rock paper scissors game 
@@ -29,7 +29,10 @@ the main fetures introduced in Quick gamer are as follows
   - the tally of results wins and loses will be  in this area 
   - you will also be able to select the rules button to see how the game is played 
 
-![Game](assets/images/game1.png)
+![Game](assets/images/game-area.png)
+
+### nav 
+![nav list](assets/images/nav.png)
 
 ### rock-paper-scissors
 - the page upon click presents you with  a modul log that asks "player1 what is your name ?" depending on user input the result will now sit beside the player1 label in the game area, if the user does not input a name and hits "cancel" or "ok" the player1 label alone will represent the username.
@@ -39,8 +42,11 @@ the main fetures introduced in Quick gamer are as follows
 - the game area seated in the center contained in a black div.
 - the footer at the bottom of the page containig social media contact information 
 
+![rps modul log user name](assets/images/rps.modul.png)
+![rps rules](assets/images/rps.rules.png)
 
-![RockpaperScissors](assets/images/rps.png)
+
+![RockpaperScissors](assets/images/rps.page.png)
 
 ### snap
 
@@ -59,7 +65,7 @@ the main fetures introduced in Quick gamer are as follows
   - the name of the page letting you know where you are is just under the logo 
   - the footer at the bottom of the page containig social media contact information    
 
-![chess.html](assets/images/chess2.png)
+![chess.html](assets/images/chess.png)
 
 ### about us
 - This page is under construction  at the moment.
@@ -68,28 +74,40 @@ the main fetures introduced in Quick gamer are as follows
   - the name of the page letting you know where you are is just under the logo 
   - the footer at the bottom of the page containig social media contact information  
 
-![about-us.html](assets/images/chess2.png)
+![about-us.html](assets/images/about-us.png)
+
+### home
+This page is under construction  at the moment.
+  - the page contains the nav list on the left .
+  - the page logo  is seated at the top center of the page
+  - the name of the page letting you know where you are is just under the logo 
+  - the footer at the bottom of the page containig social media contact information  
 
 
-###  future fetures to be implemented
- ##### fetures for snap 
+![homepage](assets/images/home.png)
+
+
+###  future features to be implemented
+ ##### features for snap 
  - in future i would like to have an up and runnning  simple card game where the user could play against the computer,the game area will be  positioned in the center of the page currently where the video is.we
   we will then have a link at the bottom of the game area "learn how to play" where you will have the videos of exactly how to play each game on the Quickgamer website.there will then be a rules button besides the  game area like in "rock paper scissors" that once clicked a dialog box opens up giving you intructions on how the the game works. so in future there wont be a video on this page just a game useres will be able to use the learn.html page in the nav to show them how to play the games also.
 
-##### fetures for chess
+##### features for chess
  - in future i would like to have an up and runnning  simple chess game where the user could play against the computer and select his or her  choice of color for use in the game. the game area will be  positioned in the center of the page currently where the video is,
  we will then have a link at the bottom of the game area "learn how to play" where you will have the videos of exactly how to play each game on the Quickgamer website.there will then be a rules button besides the  game area like in "rock paper scissors " that once clicked a dialog box opens up giving you intructions on how the the game works. so in future there wont be a video on this page just the game, useres will be able to use the learn.html page in the nav to show them how to play the games also.
 
 
 ##### fetures for Rock paper scissors 
-- on rock paper scissors the fetures to be implemented would be to have a div sorounding all the game area making it stand out more and also to have the game stop after 5 counts and  then present a winner losser or draw result based on the outcome. if the winner i would like to have a button displayed saying play again if a winner or try again if draw or loss.
+- on rock paper scissors the features to be implemented would be to have a div sorounding all the game area making it stand out more and also to have the game stop after 5 counts and  then present a winner losser or draw result based on the outcome. if the winner i would like to have a button displayed saying play again if a winner or try again if draw or loss.
 
-##### fetures for about us
+##### features for about us
+- the about us page like the footer will contain information about the company where you can find us, what the company is about when it was founded and also lots of other fun facts about arcades like where the name arcade originated from and where the idea came from.
 
 
-##### fetures for home 
 
-- Another feature idea
+##### features for home 
+- the implements to b added to this page will be the layout and giving the page more content like a few images or transormations to give it more of an arcade feel
+
 
 ## Testing 
 
@@ -117,7 +135,8 @@ If this section grows too long, you may want to split it off into a separate fil
       - The most complex function has a cyclomatic complexity value of 4 while the median is 2.
 
 ### Unfixed Bugs
-
+- nav bar- the rock paper scissors text needs to be inline in the grey shadow.but cant seem to find the reson for it doing what its doing.
+![bug1](assets/images)
 You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
 
 ## Deployment
