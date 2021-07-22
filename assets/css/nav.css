@@ -165,3 +165,10 @@ h2 {justify-content: center;}
     .my_video {
       margin: 0 auto;
       border: 20px groove rgb(85, 84, 84);}
+
+      .my_img {
+        border:none; 
+        width :560px; 
+        height: 315px;
+        position:fixed; left:550px; top:200px;
+      }

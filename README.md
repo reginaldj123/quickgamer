@@ -7,9 +7,11 @@ the main fetures introduced in Quick gamer are as follows
 2. Rock Paper Scissors -  the main feture of the site as it has already been coded with java script to produce  a working game.
 3. chess - is another future feture to be coded and added to the site.
 4. snap - this is another one of are game playing options  but also a future feture right now with just the tutorial video  as the main part of that page.
-5. the logo  written in yellow at the top of the page Quick gamer.
-6. the About us page which gives information about quick gammer its founders and what it hopes to do in the future 
-7. the footer which has the ways of getting in contact with us through social media sites but also has email and telephone number
+5. learn how to play - a page containing bvideos on how to play games provided on the site.
+6. about us - aa page providing information about the founder inspperation for the page ect.
+7. the logo  written in yellow at the top of the page Quick gamer.
+8. the About us page which gives information about quick gammer its founders and what it hopes to do in the future 
+9.  the footer which has the ways of getting in contact with us through social media sites but also has email and telephone number
 
 
 ### Existing Features
@@ -71,9 +73,14 @@ the main fetures introduced in Quick gamer are as follows
 ###  future fetures to be implemented
  ##### fetures for snap 
  - in future i would like to have an up and runnning  simple card game where the user could play against the computer,the game area will be  positioned in the center of the page currently where the video is.we
- will then have a page "learn how to play" where you will have the videos of exactly how to play each game on the Quickgamer website.there will then be a rules button besides the  game area like in "rock paper"that once clicked 
+  we will then have a link at the bottom of the game area "learn how to play" where you will have the videos of exactly how to play each game on the Quickgamer website.there will then be a rules button besides the  game area like in "rock paper scissors" that once clicked a dialog box opens up giving you intructions on how the the game works. so in future there wont be a video on this page just a game useres will be able to use the learn.html page in the nav to show them how to play the games also.
+
+##### fetures for chess
+ - in future i would like to have an up and runnning  simple chess game where the user could play against the computer and select his or her  choice of color for use in the game. the game area will be  positioned in the center of the page currently where the video is,
+ we will then have a link at the bottom of the game area "learn how to play" where you will have the videos of exactly how to play each game on the Quickgamer website.there will then be a rules button besides the  game area like in "rock paper scissors " that once clicked a dialog box opens up giving you intructions on how the the game works. so in future there wont be a video on this page just the game, useres will be able to use the learn.html page in the nav to show them how to play the games also.
 
 
+##### fetures for Rock paper scissors 
 
 - Another feature idea
 
