@@ -66,8 +66,9 @@ the main fetures introduced in Quick gamer are as follows
   - the page contains the nav list on the left .
   - the page logo  is seated at the top center of the page
   - the name of the page letting you know where you are is just under the logo 
-  - the footer at the bottom of the page containig social media contact information    
+  - the footer at the bottom of the page containig social media contact information  
 
+![about-us.html](assets/images/chess2.png)
 
 
 ###  future fetures to be implemented
@@ -81,6 +82,13 @@ the main fetures introduced in Quick gamer are as follows
 
 
 ##### fetures for Rock paper scissors 
+- on rock paper scissors the fetures to be implemented would be to have a div sorounding all the game area making it stand out more and also to have the game stop after 5 counts and  then present a winner losser or draw result based on the outcome. if the winner i would like to have a button displayed saying play again if a winner or try again if draw or loss.
+
+##### fetures for about us
+
+
+##### fetures for home 
+
 
 - Another feature idea
 
