@@ -89,7 +89,6 @@ the main fetures introduced in Quick gamer are as follows
 
 ##### fetures for home 
 
-
 - Another feature idea
 
 ## Testing 
