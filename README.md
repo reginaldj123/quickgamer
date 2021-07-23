@@ -158,3 +158,4 @@ The live link can be found here - https://reginaldj123.github.io/quickgamer/
 - the video on the snap page taken from[youtube]("https://www.youtube.com/embed/2dsHuU10udY")
 - the video on the snap page taken from[youtube](https://www.youtube.com/embed/9cFOr2T2eb8)
 - how to code rock paper scissors game[youtube](https://www.youtube.com/watch?v=1yS-JV4fWqY)
+- background image[free images](https://www.freeimages.com/search/arcade)
