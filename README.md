@@ -108,6 +108,7 @@ This page is under construction  at the moment.
 ##### features for home 
 - the implements to b added to this page will be the layout and giving the page more content like a few images or transormations to give it more of an arcade feel
 
+##### features for nav list
 
 ## Testing 
 
@@ -135,9 +136,14 @@ If this section grows too long, you may want to split it off into a separate fil
       - The most complex function has a cyclomatic complexity value of 4 while the median is 2.
 
 ### Unfixed Bugs
-- nav bar- the rock paper scissors text needs to be inline in the grey shadow.but cant seem to find the reson for it doing what its doing.
-![bug1](assets/images)
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
+- nav bar- the rock paper scissors text needs to be inline in the grey shadow.but can not seem to find the reason for why it doing what its doing. 
+![bug1](assets/images/rpsnav.png)
+- nav bar- the learn how to play text in the nav makes the button aea to large. would have tried to change it but i was struggling to find ewhy it was doing that anyway but would need more time,
+![bug2](assets/images/learnav.png)
+- in the rock paper scissors game there needs to b an exit just after the 5th play so that the game area does not push off the screen
+![bug3](assets/images/)
+- in the footer once i added the address for the company,  the facebook icon resized  
+![]
 
 ## Deployment
 
@@ -150,10 +156,6 @@ You will need to mention unfixed bugs and why they were not fixed. This section 
 display to indicate the successful deployment. 
 
 The live link can be found here - https://reginaldj123.github.io/rock--paper-scissors/
-
-
-
-
 
 
 ## Credits 
