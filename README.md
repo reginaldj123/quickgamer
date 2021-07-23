@@ -144,7 +144,7 @@ This page is under construction  at the moment.
   - Once the main has been selected, the page will be automatically refreshed with a detailed ribbon 
 display to indicate the successful deployment. 
 
-The live link can be found here - https://reginaldj123.github.io/rock--paper-scissors/
+The live link can be found here - https://reginaldj123.github.io/quickgamer/
 
 
 ## Credits 
